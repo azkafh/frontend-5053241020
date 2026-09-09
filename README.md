@@ -27,7 +27,7 @@ Kalau dosen memperbaiki sesuatu di pertemuan yang sudah dirilis (mis. ada bug di
 Bagian di bawah ini **isi bertahap** sesuai level yang sedang kalian kerjakan (lihat `pertemuan-XX/SOAL.md`) — heading-nya dicek otomatis, jangan diganti namanya.
 
 ## Struktur Project
-main.tsx adalah entry point aplikasi, artinya ketika suatu project react dijalankan file pertama yang akan diakses adalah main.tsx. Sedangkan App.tsx adalah root component UI. 
+`main.tsx` adalah entry point aplikasi, artinya ketika suatu project react dijalankan file pertama yang akan diakses adalah `main.tsx`. Sedangkan `App.tsx` adalah root component UI. 
 
 ## Identitas
 - Nama: Azka Fauziyah Hanifah
@@ -35,7 +35,7 @@ main.tsx adalah entry point aplikasi, artinya ketika suatu project react dijalan
 - Kelas: M (RPL)
 
 ## Commit vs Push
-(tulis di sini)
+git commit adalah command untuk menyimpan perubahan yang kita lakukan ke local repository, sedangkan git push adalah command untuk upload file dari local repository ke remote repository, sehingga jika seseorang melakukan perubahan lalu commit tetapi lupa push, maka rekan 1 timnya tidak dapat melihat perubahan tersebut karena perubahan hanya tersimpan di lokal (komputer) orang tersebut.
 
 ## JSX vs TSX
 (tulis di sini)
