@@ -27,12 +27,12 @@ Kalau dosen memperbaiki sesuatu di pertemuan yang sudah dirilis (mis. ada bug di
 Bagian di bawah ini **isi bertahap** sesuai level yang sedang kalian kerjakan (lihat `pertemuan-XX/SOAL.md`) — heading-nya dicek otomatis, jangan diganti namanya.
 
 ## Struktur Project
-(tulis di sini)
+main.tsx adalah entry point aplikasi, artinya ketika suatu project react dijalankan file pertama yang akan diakses adalah main.tsx. Sedangkan App.tsx adalah root component UI. 
 
 ## Identitas
-- Nama: (tulis di sini)
-- NRP: (tulis di sini)
-- Kelas: (tulis di sini)
+- Nama: Azka Fauziyah Hanifah
+- NRP: 5053241020
+- Kelas: M (RPL)
 
 ## Commit vs Push
 (tulis di sini)
