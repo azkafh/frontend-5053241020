@@ -38,7 +38,7 @@ Bagian di bawah ini **isi bertahap** sesuai level yang sedang kalian kerjakan (l
 git commit adalah command untuk menyimpan perubahan yang kita lakukan ke local repository, sedangkan git push adalah command untuk upload file dari local repository ke remote repository, sehingga jika seseorang melakukan perubahan lalu commit tetapi lupa push, maka rekan 1 timnya tidak dapat melihat perubahan tersebut karena perubahan hanya tersimpan di lokal (komputer) orang tersebut.
 
 ## JSX vs TSX
-(tulis di sini)
+JSX menggunakan JavaScript murni yang bertipe dinamis, sedangkan TSX adalah JSX dengan integrasi TypeScript yang menyediakan static type-checking. Project ini menggunakan TSX karena tipe data props terdeteksi secara otomatis.
 
 ## Kenapa Union Type untuk Status
 (tulis di sini)
