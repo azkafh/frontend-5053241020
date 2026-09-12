@@ -41,7 +41,7 @@ git commit adalah command untuk menyimpan perubahan yang kita lakukan ke local r
 JSX menggunakan JavaScript murni yang bertipe dinamis, sedangkan TSX adalah JSX dengan integrasi TypeScript yang menyediakan static type-checking. Project ini menggunakan TSX karena tipe data props terdeteksi secara otomatis.
 
 ## Kenapa Union Type untuk Status
-(tulis di sini)
+Untuk membatasi agar status hanya pada pilihan yang valid, sehingga kesalahan typo atau status yang tidak valid bisa dideteksi sejak awal oleh typescript.
 
 ## Refleksi
-(tulis di sini)
+HTML hanya berfokus pada tampilan UI sedangkan JSX menggabungkan UI dengan logika JavaScript seperti conditional rendering, props, dan data dinamis. 
