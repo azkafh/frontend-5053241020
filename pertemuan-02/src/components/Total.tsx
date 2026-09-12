@@ -7,8 +7,8 @@ type TotalProps = {
     harga: number;
   };
 
-export function Total(props: TotalProps) {
+export function Total({qty, harga}: TotalProps) {
   return (
-    <p>Total: {props.qty * props.harga}</p>
+    <p>Total: {qty * harga}</p>
   )
 }
